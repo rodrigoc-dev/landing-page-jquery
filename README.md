@@ -13,10 +13,10 @@ Durante o desenvolvimento, trabalhei com múltiplos arquivos CSS para uma estili
 
 ## 📸 Capturas de Tela
 
-![Screenshot 1](img/Captura%20de%20tela%202025-05-05%20131432.jpg)  
-![Screenshot 2](img/Captura%20de%20tela%202025-05-05%20131543.jpg)  
-![Screenshot 3](img/Captura%20de%20tela%202025-05-05%20131628.jpg)  
-![Screenshot 4](img/Captura%20de%20tela%202025-05-05%20131750.jpg)  
+![Screenshot 1](images/Captura%20de%20tela%202025-05-05%20131432.jpg)  
+![Screenshot 2](images/Captura%20de%20tela%202025-05-05%20131543.jpg)  
+![Screenshot 3](images/Captura%20de%20tela%202025-05-05%20131628.jpg)  
+![Screenshot 4](images/Captura%20de%20tela%202025-05-05%20131750.jpg)  
 
 ## 🚀 Como Rodar o Projeto Localmente
 
